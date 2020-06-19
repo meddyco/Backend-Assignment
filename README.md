@@ -59,8 +59,8 @@ Accept: application/json
 ### Constraints
 There are some constraints that you should be aware of. Not completing any of the following constraints will stop your candidacy from moving forward:
 - You must use **Python**. 
-- You must use (**FastAPI**)[https://github.com/tiangolo/fastapi] for serving HTTP requests. This is to test your ability to design without the use of heavy frameworks.
-- You cannot use (PRAW)[https://praw.readthedocs.io/en/v2.1.21/] for the Reddit API.
+- You must use [**FastAPI**](https://github.com/tiangolo/fastapi) for serving HTTP requests. This is to test your ability to design without the use of heavy frameworks.
+- You cannot use [PRAW](https://praw.readthedocs.io/en/v2.1.21/) for the Reddit API.
 - You cannot use any database technology to aid in your development (Redis or equivilant is fine).
 - You must return the three fields that are in the sample requests above in JSON format! You can add more fields if you'd like.
 - You must return fields from all APIs if any exist. 
