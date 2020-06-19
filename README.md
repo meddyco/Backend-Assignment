@@ -1,7 +1,7 @@
 # News Aggregator V2
 
 ### Description 
-For this assignment you have to implement an application that aggregates news from two different APIs. The APIs you'll be using are [Reddit](https://www.reddit.com/dev/api/ "Reddit") and [News API](https://newsapi.org/ "News API").
+For this assignment you have to implement an application that aggregates news from two different APIs. The APIs you'll be using are [**Reddit**](https://www.reddit.com/dev/api/ "Reddit") and [**News API**](https://newsapi.org/ "News API").
 
 The application that you submit must have thoughtful design decisions, well documented and unit tested code. This assignment should not take more than 5 hours to complete.
 
@@ -60,7 +60,7 @@ Accept: application/json
 There are some constraints that you should be aware of. Not completing any of the following constraints will stop your candidacy from moving forward:
 - You must use **Python**. 
 - You must use [**FastAPI**](https://github.com/tiangolo/fastapi) for serving HTTP requests. This is to test your ability to design without the use of heavy frameworks.
-- You cannot use [PRAW](https://praw.readthedocs.io/en/v2.1.21/) for the Reddit API.
+- You cannot use [**PRAW**](https://praw.readthedocs.io/en/v2.1.21/) for the Reddit API.
 - You cannot use any database technology to aid in your development (Redis or equivilant is fine).
 - You must return the three fields that are in the sample requests above in JSON format! You can add more fields if you'd like.
 - You must return fields from all APIs if any exist. 
