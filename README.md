@@ -61,17 +61,17 @@ There are some constraints that you should be aware of. Not completing any of th
 - You must use **Python**. 
 - You must use [**FastAPI**](https://github.com/tiangolo/fastapi) for serving HTTP requests. This is to test your ability to design without the use of heavy frameworks.
 - You cannot use [**PRAW**](https://praw.readthedocs.io/en/v2.1.21/) for the Reddit API.
-- You cannot use any database technology to aid in your development (Redis or equivilant is fine).
-- You must return the three fields that are in the sample requests above in JSON format! You can add more fields if you'd like.
+- You cannot use any database technology to aid in your development (Redis or equivalent is fine).
+- You must return the three fields that are in the sample requests above in JSON format. You can add more fields if you'd like.
 - You must return fields from all APIs if any exist. 
 - This needs to be a running Python application on your localhost that serves an HTTP request not a console application.
 
 ### Assessment
-Primarily, I will be assessing good **design decisions**. To do this, I have a hidden API that I have written that has different specifications than the ones that have been provided above. I will be integrating my own API into your news aggregator. It needs to be a simple and clear integration, the simpler the better.
+Primarily, we will be assessing good **design decisions**. To do this, we have a hidden API that we have written that has different specifications than the ones that have been provided above. We will be integrating my own API into your news aggregator. It needs to be a simple and clear integration, the simpler the better.
 
-Secondly, I will be assessing good **performance**. The speed of the application should not be affected by poor API speed. You need to be creative on how to solve this problem.
+Secondly, we will be assessing good **application performance**. The speed of the application should not be affected by poor API speed. You need to be creative on how to solve this problem.
 
-In addition, I will be testing the following:
+In addition, we will be assessing the following points:
 - Python Proficiency
 - Ability to understand and use 3rd party APIs
 - Ability to parse different forms of data
