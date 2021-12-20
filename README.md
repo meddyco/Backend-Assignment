@@ -77,6 +77,7 @@ In addition, we will be assessing the following points:
 - Ability to parse different forms of data
 - Ability to write unit tests
 - Ability to write documentation
+- Ability to follow SOLID principles
 - Generally professional code that follows standards in matter of commits and security
 
 ### Submission
