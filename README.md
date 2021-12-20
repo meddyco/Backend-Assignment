@@ -85,5 +85,3 @@ You should upload your code to a Github repository (private or public) and share
 
 Best of luck!
 
-~ Meddy Team
-
