@@ -67,7 +67,7 @@ There are some constraints that you should be aware of. Not completing any of th
 - This needs to be a running Python application on your localhost that serves an HTTP request not a console application.
 
 ### Assessment
-Primarily, we will be assessing good **design decisions**. To do this, we have a hidden API that we have written that has different specifications than the ones that have been provided above. We will be integrating my own API into your news aggregator. It needs to be a simple and clear integration, the simpler the better.
+Primarily, we will be assessing good **design decisions**. To do this, we have a hidden API that we have written that has different specifications than the ones that have been provided above. We will be integrating our own API into your news aggregator. It needs to be a simple and clear integration, the simpler the better.
 
 Secondly, we will be assessing good **application performance**. The overall speed of the application should not be affected by poor API speed. You need to be creative on how to solve this problem. *Suggestion: look into LRU caches.*
 
