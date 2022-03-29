@@ -81,7 +81,7 @@ In addition, we will be assessing the following points:
 - Generally professional code that follows standards in matter of commits and security
 
 ### Submission
-You should upload your code to a Github repository (private or public) and share it with me. Your repository should have a README.md that explains how to run the code and if you’ve done anything extra. **If you fail to produce this repository within the time period mentioned in the email you received your application will be rejected.**
+You should upload your code to a Github repository (private or public) and share it with us. Your repository should have a README.md that explains how to run the code and if you’ve done anything extra. **If you fail to produce this repository within the time period mentioned in the email you received your application will be rejected.**
 
 Best of luck!
 
